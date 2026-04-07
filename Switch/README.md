@@ -61,7 +61,7 @@ Switch#
 Switch# rename flash:config.eski flash:config.text
 ```
 
-### Adım 7: Eski Ayarları RAM'e Yükleme (Kritik Adım)
+### Adım 7: Eski Ayarları RAM'e Yükleme 
 Adını düzelttiğimiz orijinal yapılandırma dosyasını çalışan belleğe çekerek eski ayarları geri getirin:
 
 ```text
